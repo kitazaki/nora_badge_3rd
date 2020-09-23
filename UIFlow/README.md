@@ -1,5 +1,8 @@
 UIFlow custom blocks for NORA LED Badge.
 
+![M5Atom lite](https://github.com/kitazaki/nora_badge_3rd/raw/master/UIFlow/M5Atom_Lite.png)
+![M5Atom matrix](https://github.com/kitazaki/nora_badge_3rd/raw/master/UIFlow/M5Atom_Matrix.png)
+
 - M5Flow  
   https://flow.m5stack.com/
 - M5BlockMaker  
