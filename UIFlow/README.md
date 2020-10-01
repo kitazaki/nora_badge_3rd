@@ -18,6 +18,9 @@ M5Atom Matrix attached on NORA LED Badge
 
 <A HREF="https://youtu.be/sINYxktsSLo">Movie (Long Ver.)</A>  
 
+I2C Address, Arduino IDE library (Adafruit-LED-Backpack)
+![I2C Address](https://github.com/kitazaki/nora_badge_3rd/raw/master/UIFlow/I2C_address.png)
+
 flow to display Good!  
 ![example 1](https://github.com/kitazaki/nora_badge_3rd/raw/master/UIFlow/example1.png)
 
