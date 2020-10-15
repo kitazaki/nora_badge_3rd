@@ -13,3 +13,8 @@
 
 ![M5Stack](https://github.com/kitazaki/nora_badge_3rd/raw/master/example/M5Stack_grove.png)
 
+![M5StickC](https://github.com/kitazaki/nora_badge_3rd/raw/master/example/M5StickC_grove.png)
+
+![M5Atom_1](https://github.com/kitazaki/nora_badge_3rd/raw/master/example/M5Atom_lite_grove.png)
+
+![M5Atom_2](https://github.com/kitazaki/nora_badge_3rd/raw/master/example/M5Atom_lite.png)
