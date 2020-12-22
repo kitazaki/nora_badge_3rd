@@ -37,8 +37,9 @@ NORA mini LED Badge attached on Raspberry Pi 3 Model B+
 I2C Address (0x70 and 0x71), Adafruit-LED-Backpackライブラリ互換
 ![I2C Address](https://github.com/kitazaki/nora_badge_3rd/raw/master/UIFlow/I2C_address.png)
 
-==========
-(in Japanese)
+==========  
+(in Japanese)  
+
 野良ミニLEDバッジをラズパイで動かすPythonサンプルスクリプトです。
 
 使用する前にラズパイのI2C設定を有効にしてください。
