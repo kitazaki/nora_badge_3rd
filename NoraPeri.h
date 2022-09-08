@@ -1,4 +1,4 @@
-// #include <BLEPeripheral.h>
+// #include <BLEPeripheral.h>  // XIAO ESP32C3では不要
 
 /* BLEデバイス定義 */
 #define BLE_DEVICE_NAME "LSLED"
